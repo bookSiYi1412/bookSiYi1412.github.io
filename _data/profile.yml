@@ -24,7 +24,9 @@ short_bio: >-
   <p>
     I am currently a Master's student at <a href="https://www.pku.edu.cn/" target="_blank">Peking University</a>, 
     majoring in Medical Technology within the Department of Biomedical Engineering (Cross-faculty).
-    I obtained my B.S. degree in Intelligent Medical Engineering from 
+  </p>
+  <p>
+    Previously, I obtained my B.S. degree in Intelligent Medical Engineering from 
     <a href="https://www.xidian.edu.cn/" target="_blank">Xidian University</a>, 
     where I ranked 1st in my college and received the National Scholarship.
   </p>
@@ -34,7 +36,7 @@ short_bio: >-
   </p>
   <p>
     In addition, I work on <strong>AI for Science (AI4S)</strong>, developing advanced <strong>foundation models</strong> for 
-    <strong>single-cell omics</strong> and physics-informed algorithms for <strong>medical imaging</strong>.
+    <strong>single-cell omics</strong> and physics-informed algorithms for medical imaging.
   </p>
 
 portrait_url: /assets/images/photos/ajl.jpg
